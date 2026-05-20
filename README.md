@@ -1,5 +1,5 @@
 
-Evaluator Architecture Specification (v1.0)
+AI Evaluator Architecture Specification (v1.0)
 
 A conceptual framework for independent, adversarial evaluation of advanced AI systems
 1. Purpose
